@@ -1,0 +1,2 @@
+rootProject.name = "DocuShare v2"
+include ':app'

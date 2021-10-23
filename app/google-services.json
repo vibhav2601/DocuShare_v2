@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "773087180764",
+    "project_id": "docushare-v2",
+    "storage_bucket": "docushare-v2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773087180764:android:614ec63b16c7e84c7bc119",
+        "android_client_info": {
+          "package_name": "com.example.docusharev2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773087180764-llsaab9es4ccptoek16dp9ssqehpua76.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCivPqbvMUdW0UAtvlpG2jBvBvAaQIUOjY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773087180764-llsaab9es4ccptoek16dp9ssqehpua76.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
